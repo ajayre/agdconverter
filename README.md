@@ -1,6 +1,6 @@
 # AGD Converter
 
-A C# console application for converting AGD (AutoCAD Civil 3D) files to various mesh formats.
+A C# console application for converting AGD (Optisurface output) files to various mesh formats.
 
 ## Features
 
