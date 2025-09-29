@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AGDConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "-i ShopB4.agd -o ShopB4.ply"
+    }
+  }
+}
